@@ -7,9 +7,10 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  markscribe:
+  your_job:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
