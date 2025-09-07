@@ -4,15 +4,12 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Eim-31/tempp](https://github.com/Eim-31/tempp) - 
 - [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github) - My clone repository
 ### 🌱 My latest projects
 
-- [Eim-31/tempp](https://github.com/Eim-31/tempp) - 
 - [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github) - My clone repository
 ### 🔨 My recent Pull Requests
 
-- [Fix GitHub Actions workflow: add docker/jq dependencies and update to…](https://github.com/Eim-31/tempp/pull/2) on [Eim-31/tempp](https://github.com/Eim-31/tempp)
 - [Add my first file](https://github.com/Eim-31/skills-introduction-to-github/pull/2) on [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github)
 ### ⭐ Recent Stars
 
