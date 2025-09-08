@@ -13,11 +13,11 @@
 - [Add my first file](https://github.com/Eim-31/skills-introduction-to-github/pull/2) on [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github)
 ### ⭐ Recent Stars
 
-- [whale4113/cloud-document-converter](https://github.com/whale4113/cloud-document-converter) - Convert Lark Doc to Markdown
-- [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
-- [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
-- [alexbakker/aegis-simple-icons](https://github.com/alexbakker/aegis-simple-icons) - Icon pack for Aegis Authenticator based on simple-icons
-- [Delta-Icons/aegis](https://github.com/Delta-Icons/aegis) - 🔑 Icon Pack for Aegis Authenticator
+- [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
+- [MD-MAFUJUL-HASAN/Personal-Portfolio](https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio) - Welcome to my personal portfolio. Explore my work, skills, and achievements in a concise and visually appealing format. Get a glimpse of my expertise and creativity.
+- [iafthab/kollege](https://github.com/iafthab/kollege) - College Based Data Management System
+- [4o3F/Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history link on Android devices
+- [Norbert515/nocterm](https://github.com/Norbert515/nocterm) - A powerful, Flutter-inspired Terminal User Interface framework for building beautiful command-line applications in Dart.
 ### 📰 Recent Blog Posts
 
 - [Links](https://eimaanafroz.online/links/)
