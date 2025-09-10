@@ -15,11 +15,11 @@
 - [Add my first file](https://github.com/Eim-31/skills-introduction-to-github/pull/2) on [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github)
 ### ⭐ Recent Stars
 
+- [CSC207-2025F-UofT/FizzBuzz](https://github.com/CSC207-2025F-UofT/FizzBuzz) - lab 1 intro to Java and git activity!
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
+- [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that &#34;care about your data 🥺&#34;
 - [nixrajput/portfolio-nextjs](https://github.com/nixrajput/portfolio-nextjs) - This repository contains the source code for a portfolio website built using Next.js, TypeScript, Sass, Tailwind, and Aceternity UI. 
-- [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
-- [MD-MAFUJUL-HASAN/Personal-Portfolio](https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio) - Welcome to my personal portfolio. Explore my work, skills, and achievements in a concise and visually appealing format. Get a glimpse of my expertise and creativity.
-- [iafthab/kollege](https://github.com/iafthab/kollege) - College Based Data Management System
-- [4o3F/Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history link on Android devices
 ### 📰 Recent Blog Posts
 
 - [Links](https://eimaanafroz.online/links/)
