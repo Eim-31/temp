@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eimaan Afroz</h1>
+<h1 align="center">Hi 👋🏼, I'm Eimaan Afroz</h1>
 <h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
 
 <!--
@@ -68,7 +68,7 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
   - Website      : **<https://eimaanafroz.online>**
   - Reach out at : **eimaanafroz03@gmail.com**
 
-### 🌐 Connect with Me
+<!-- ### 🌐 Connect with Me -->
 
 <div align="center">
 <!--
