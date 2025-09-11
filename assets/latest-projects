@@ -1,0 +1,10 @@
+<!-- Latest projects -->
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="90" viewBox="0 0 500 90">
+  <rect x="10" y="10" width="480" height="70" rx="25" ry="25"
+        stroke="#C9B3D1" stroke-width="3" fill="none"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        fill="#C9B3D1" font-family="Inter, Arial, Helvetica, sans-serif"
+        font-weight="800" font-size="26">
+    🌱 Latest projects :
+  </text>
+</svg>
