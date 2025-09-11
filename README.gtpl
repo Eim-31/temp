@@ -7,6 +7,30 @@
 
 ---
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p> -->
+### 🌐 Connect with Me
+
+<div align="center">
+<!--
+  <a href="https://github.com/Emi-31" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+-->
+  <a href="https://www.linkedin.com/in/eimaan-afroz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/emiii.003/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://x.com/Eimaan_afroz" target="_blank">
+    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
+  </a>
+  <a href="https://dev.to/eim31/" target="_blank">
+    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to Badge"/>
+  </a>
+</div>
+
+
+---
 
 ### 🛠️ My Tech Stack
 
@@ -41,6 +65,7 @@ With **n8n**, I’ve worked on:
 
 n8n helps me bridge **AI + Web Development + Automation** to create truly **autonomous systems**.
 -->
+
 ---
 ### GitHub Stats
 
@@ -67,5 +92,13 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
-  - Twitter   : <https://twitter.com/eimaan_afroz>
-  - Website   : <https://eimaanafroz.online>
+  - Website      : <https://eimaanafroz.online>
+  - Reach out at : **eimaanafroz03@gmail.com**
+---
+
+<p align="center">Thanks for stopping by! Let’s connect and create something powerful 🚀</p>
+
+<p align="center">
+  <img src="
+https://visitor-badge.laobi.icu/badge?page_id=Eim-31.Eim-31" alt="Visitor Badge"/>
+</p>
