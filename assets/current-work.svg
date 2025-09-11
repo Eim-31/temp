@@ -11,11 +11,6 @@
 
   <!-- First line -->
   <text class="line" x="50%" y="42%" text-anchor="middle" dominant-baseline="middle">
-    Check out what I'm currently
-  </text>
-
-  <!-- Second line -->
-  <text class="line" x="50%" y="78%" text-anchor="middle" dominant-baseline="middle">
-    working on
+    Check out what I'm currently working on
   </text>
 </svg>
