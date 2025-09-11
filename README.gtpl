@@ -7,8 +7,8 @@
 </div>
 -->
 
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p> -->
----
+<p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p> 
+
 ### 🛠️ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,c,cpp,py,fastapi,firebase,cloudflare,git,github,vscode,arch,obsidian)](https://skillicons.dev)  
