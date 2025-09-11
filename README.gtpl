@@ -79,27 +79,45 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
 [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/) 
 -->
 
-### 👷 Check out what I'm currently working on
+<!-- ### 👷 Check out what I'm currently working on -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/current-work.svg" alt="current-work.svg" />
+</p>
 {{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### 🌱 My latest projects
+<!-- ### 🌱 My latest projects -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/latest-projects.svg" alt="latest-projects.svg" />
+</p>
 {{ range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
-### 🔨 My recent Pull Requests
+<!-- ### 🔨 My recent Pull Requests -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/pull-requests.svg" alt="pull-requests.svg" />
+</p>
 {{ range recentPullRequests 3 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
-### ⭐ Recent Stars
+<!-- ### ⭐ Recent Stars -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
+</p>
 {{ range recentStars 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### 📰 Recent Blog Posts
+<!-- ### 📰 Recent Blog Posts -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
+</p>    
 {{ range rss "https://eimaanafroz.online/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
-### 📫 How to reach me:
+<!-- ### 📫 How to reach me:  -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/reach-me.svg" alt="reach-me.svg" />
+</p> 
   - Website      : **<https://eimaanafroz.online>**
   - Reach out at : **eimaanafroz03@gmail.com**
 
