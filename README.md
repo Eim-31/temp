@@ -66,8 +66,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/reach-me.svg" alt="reach-me.svg" />
 </p> 
+<p align="center">- Website      : <https://eimaanafroz.online></p>
+<p align="center">- Reach out at : <b>eimaanafroz03@gmail.com</b></p>
+
   - Website      : <https://eimaanafroz.online>
   - Reach out at : **eimaanafroz03@gmail.com**
+
 ---
 
 
