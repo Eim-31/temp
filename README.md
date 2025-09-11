@@ -26,28 +26,46 @@
 
 
 
-### 👷 Check out what I'm currently working on
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/current-work.svg" alt="current-work.svg" />
+</p>
 
 - [Eim-31/Personal](https://github.com/Eim-31/Personal) - 
 - [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github) - My clone repository
-### 🌱 My latest projects
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/latest-projects.svg" alt="latest-projects.svg" />
+</p>
 
 - [Eim-31/Personal](https://github.com/Eim-31/Personal) - 
 - [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github) - My clone repository
-### 🔨 My recent Pull Requests
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/pull-requests.svg" alt="pull-requests.svg" />
+</p>
 
 - [Add my first file](https://github.com/Eim-31/skills-introduction-to-github/pull/2) on [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github)
-### ⭐ Recent Stars
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
+</p>
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [beradeep/whitehole](https://github.com/beradeep/whitehole) - Simple photo manager on top of Telegram.
 - [KRTirtho/portfolio](https://github.com/KRTirtho/portfolio) - Web: Nextjs based Portfolio site. Rust: A TUI based portfolio of mine created using rust &amp; tui-rs
-### 📰 Recent Blog Posts
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
+</p>    
 
 - [Links](https://eimaanafroz.online/links/)
 - [My Very First Blog Post](https://eimaanafroz.online/posts/my-very-first-blog-post/)
 - [Starting my Journey of 100 Days of code](https://eimaanafroz.online/posts/starting-my-journey-of-100-days-of-code/)
-### 📫 How to reach me:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/reach-me.svg" alt="reach-me.svg" />
+</p> 
   - Website      : **<https://eimaanafroz.online>**
   - Reach out at : **eimaanafroz03@gmail.com**
 
