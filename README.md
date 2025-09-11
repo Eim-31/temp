@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer%20%7C%20Full--Stack%20Learner%20%7C%20React%20%26%20React%20Native%20Explorer%20%7C%20Python%20Automation%20%26%20AI%20Integration%20Enthusiast-C9B3D1?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer%20%7C%20Full--Stack%20Learner%20%7C%20React%20%26%20React%20Native%20Explorer%20%7C%20Python%20Automation%20%26%20AI%20Integration%20Enthusiast-C9B3D1?style=for-the-badge&labelColor=000000&fontWeight=bold" />
 </p>
 
 
