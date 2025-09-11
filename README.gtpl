@@ -2,8 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=75&duration=5000&pause=500&color=C9B3D1&lines=Welcome+to+my+digital+playground!+👋;I'm+Eimaan+Afroz,+code+enthusiast+and+open-source+advocate!;Let's+dive+into+my+world+of+bits+and+bytes!" />
 </h1>
 
-<h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
-
+<h3 align="center" style="color:#C9B3D1;">
+  Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast
+</h3>
 <!--
 <div align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Developer Animation" height="270" />
