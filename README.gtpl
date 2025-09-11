@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/blob/main/eimaan-github.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p>
 
 ### GitHub Stats
 
