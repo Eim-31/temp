@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
   </a>
   <a href="https://dev.to/eim31/" target="_blank">
-    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to Badge"/>
+    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
   </a>
 </div>
 
@@ -62,7 +62,7 @@
 - [My Very First Blog Post](https://eimaanafroz.online/posts/my-very-first-blog-post/)
 - [Starting my Journey of 100 Days of code](https://eimaanafroz.online/posts/starting-my-journey-of-100-days-of-code/)
 ### 📫 How to reach me:
-  - Website      : <https://eimaanafroz.online>
+  - Website      : **<https://eimaanafroz.online>**
   - Reach out at : **eimaanafroz03@gmail.com**
 ---
 
