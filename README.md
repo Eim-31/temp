@@ -1,4 +1,12 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p>
+<h1 align="center">Hi 👋, Eimaan Afroz</h1>
+<h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
+
+<div align="center">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Developer Animation" height="270" />
+</div>
+
+---
+
 
 ### GitHub Stats
 
