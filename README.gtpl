@@ -44,7 +44,6 @@ With **n8n**, I’ve worked on:
 n8n helps me bridge **AI + Web Development + Automation** to create truly **autonomous systems**.
 -->
 
----
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
