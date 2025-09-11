@@ -13,6 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,c,cpp,py,fastapi,firebase,cloudflare,git,github,vscode,arch,obsidian)](https://skillicons.dev)  
 
 
+
 ---
 ### GitHub Stats
 
@@ -34,8 +35,6 @@
 - [RanitManik/100-days-of-python](https://github.com/RanitManik/100-days-of-python) - 🐍 The Complete Python Pro Bootcamp for 2023 || This repository contains code and projects completed during the &#34;100 Days of Python&#34; bootcamp by Angela Yu. This bootcamp is an intensive programming course that covers a wide range of topics in Python programming.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you&#39;ll find templates, and configurations for various tools, and technologies. 
 - [zairahira/Git-Cheat-Sheet](https://github.com/zairahira/Git-Cheat-Sheet) - 
-- [zairahira/Markdown-cheatsheet](https://github.com/zairahira/Markdown-cheatsheet) - 
-- [zairahira/Mastering-Linux-Handbook](https://github.com/zairahira/Mastering-Linux-Handbook) - Raw markdown for the original book on freeCodeCamp
 ### 📰 Recent Blog Posts
 
 - [Links](https://eimaanafroz.online/links/)
