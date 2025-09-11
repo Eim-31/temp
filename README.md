@@ -36,7 +36,7 @@
 
 
 ---
-### GitHub Stats
+### 📈 GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/github-metrics.svg" /></p>
 
