@@ -8,6 +8,12 @@
 ---
 
 
+### 🛠️ My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,c,cpp,py,fastapi,firebase,cloudflare,git,github,vscode,arch,obsidian)](https://skillicons.dev)  
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40" alt="n8n Logo" />
+
+---
 ### GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/github-metrics.svg" /></p>
