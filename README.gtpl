@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=2500&pause=1000&width=1500&height=75&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Eimaan+Afroz" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=3500&pause=1000&width=1500&height=75&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Eimaan+Afroz" alt="Typing SVG" />
 </h1>
 <h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
 
