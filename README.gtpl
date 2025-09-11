@@ -27,9 +27,12 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p> 
 
-### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/my-tech-stack.svg" alt="My Tech Stack" />
+</p>
 
 <!--
+### 🛠️ My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,c,cpp,py,fastapi,firebase,cloudflare,git,github,vscode,arch,bash,obsidian&perline=10)](https://skillicons.dev)  
 -->
 <p align="center">
