@@ -10,7 +10,9 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p> 
 
-### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/my-tech-stack.svg" alt="My Tech Stack" />
+</p>
 
 
 <p align="center">
