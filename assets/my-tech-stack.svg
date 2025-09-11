@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 96" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .title {
+      fill: #C9B3D1;
+      font-family: Inter, Arial, Helvetica, sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      letter-spacing: 0.5px;
+    }
+  </style>
+  <text class="title" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">My Tech Stack</text>
+</svg>
