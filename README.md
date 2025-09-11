@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eimaan Afroz</h1>
+<h1 align="center">Hi 👋🏼, I'm Eimaan Afroz</h1>
 <h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
 
 
@@ -38,7 +38,7 @@
   - Website      : **<https://eimaanafroz.online>**
   - Reach out at : **eimaanafroz03@gmail.com**
 
-### 🌐 Connect with Me
+
 
 <div align="center">
 
