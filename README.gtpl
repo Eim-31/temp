@@ -81,8 +81,6 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
 [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/) 
 -->
 
----
-
 <!-- ### 👷 Check out what I'm currently working on -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/current-work.svg" alt="current-work.svg" />
