@@ -3,29 +3,8 @@
 
 
 
----
-
-### 🌐 Connect with Me
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/eimaan-afroz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/emiii.003/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="https://x.com/Eimaan_afroz" target="_blank">
-    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
-  </a>
-  <a href="https://dev.to/eim31/" target="_blank">
-    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
-  </a>
-</div>
-
 
 ---
-
 ### 🛠️ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,c,cpp,py,fastapi,firebase,cloudflare,git,github,vscode,arch,obsidian)](https://skillicons.dev)  
@@ -33,11 +12,8 @@
 
 
 
+
 ---
-### 📈 GitHub Stats
-
-<p align="left"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/github-metrics.svg" /></p>
-
 ### 👷 Check out what I'm currently working on
 
 - [Eim-31/Personal](https://github.com/Eim-31/Personal) - 
@@ -62,8 +38,29 @@
 ### 📫 How to reach me:
   - Website      : **<https://eimaanafroz.online>**
   - Reach out at : **eimaanafroz03@gmail.com**
----
 
+### 🌐 Connect with Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/eimaan-afroz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/emiii.003/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://x.com/Eimaan_afroz" target="_blank">
+    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
+  </a>
+  <a href="https://dev.to/eim31/" target="_blank">
+    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
+  </a>
+</div>
+
+---
+### 📈 GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/github-metrics.svg" /></p>
 <p align="center">Thanks for stopping by! Let’s connect and create something powerful 🚀</p>
 
 <p align="center">
