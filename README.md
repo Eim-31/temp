@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋🏼, I'm Eimaan Afroz</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=2500&pause=1000&width=1500&height=75&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Eimaan+Afroz" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
 
 
@@ -32,9 +34,9 @@
 - [Add my first file](https://github.com/Eim-31/skills-introduction-to-github/pull/2) on [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github)
 ### ⭐ Recent Stars
 
-- [AsfaQasim/AsfaQasim](https://github.com/AsfaQasim/AsfaQasim) - Config files for my GitHub profile.
-- [RanitManik/100-days-of-python](https://github.com/RanitManik/100-days-of-python) - 🐍 The Complete Python Pro Bootcamp for 2023 || This repository contains code and projects completed during the &#34;100 Days of Python&#34; bootcamp by Angela Yu. This bootcamp is an intensive programming course that covers a wide range of topics in Python programming.
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you&#39;ll find templates, and configurations for various tools, and technologies. 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+- [beradeep/whitehole](https://github.com/beradeep/whitehole) - Simple photo manager on top of Telegram.
+- [KRTirtho/portfolio](https://github.com/KRTirtho/portfolio) - Web: Nextjs based Portfolio site. Rust: A TUI based portfolio of mine created using rust &amp; tui-rs
 ### 📰 Recent Blog Posts
 
 - [Links](https://eimaanafroz.online/links/)
