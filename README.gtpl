@@ -107,7 +107,7 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
     <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
   </a>
   <a href="https://dev.to/eim31/" target="_blank">
-    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to Badge"/>
   </a>
 </div>
 
