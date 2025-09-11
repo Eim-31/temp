@@ -7,36 +7,12 @@
 </div>
 -->
 
----
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p> -->
-### 🌐 Connect with Me
-
-<div align="center">
-<!--
-  <a href="https://github.com/Emi-31" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
--->
-  <a href="https://www.linkedin.com/in/eimaan-afroz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/emiii.003/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="https://x.com/Eimaan_afroz" target="_blank">
-    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
-  </a>
-  <a href="https://dev.to/eim31/" target="_blank">
-    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
-  </a>
-</div>
-
-
 ---
-
 ### 🛠️ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,c,cpp,py,fastapi,firebase,cloudflare,git,github,vscode,arch,obsidian)](https://skillicons.dev)  
+
 <!-- img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40" alt="n8n Logo" /> -->
 <!-- ,docker,vim,figma, -->
 <!--
@@ -69,10 +45,6 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
 -->
 
 ---
-### 📈 GitHub Stats
-
-<p align="left"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/github-metrics.svg" /></p>
-
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
@@ -96,8 +68,33 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
 ### 📫 How to reach me:
   - Website      : **<https://eimaanafroz.online>**
   - Reach out at : **eimaanafroz03@gmail.com**
----
 
+### 🌐 Connect with Me
+
+<div align="center">
+<!--
+  <a href="https://github.com/Emi-31" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+-->
+  <a href="https://www.linkedin.com/in/eimaan-afroz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/emiii.003/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://x.com/Eimaan_afroz" target="_blank">
+    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
+  </a>
+  <a href="https://dev.to/eim31/" target="_blank">
+    <img src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
+  </a>
+</div>
+
+---
+### 📈 GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/github-metrics.svg" /></p>
 <p align="center">Thanks for stopping by! Let’s connect and create something powerful 🚀</p>
 
 <p align="center">
