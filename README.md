@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=75&duration=2500&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Eimaan+Afroz" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=75&duration=2500&lines=Welcome+to+my+digital+playground!+👋;I'm+Eimaan+Afroz,+code+enthusiast+and+open-source+advocate!;Let's+dive+into+my+world+of+bits+and+bytes!" />
 </h1>
+
 <h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
 
 
