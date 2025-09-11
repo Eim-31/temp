@@ -99,6 +99,5 @@ n8n helps me bridge **AI + Web Development + Automation** to create truly **auto
 <p align="center">Thanks for stopping by! Let’s connect and create something powerful 🚀</p>
 
 <p align="center">
-  <img src="
-https://visitor-badge.laobi.icu/badge?page_id=Eim-31.Eim-31" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eim-31.Eim-31" alt="Visitor Badge"/>
 </p>
