@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 96" preserveAspectRatio="xMidYMid meet">
-  <style>
-    .title {
-      fill: #C9B3D1;
-      font-family: Inter, Arial, Helvetica, sans-serif;
-      font-weight: 800;
-      font-size: 32px;
-      letter-spacing: 0.5px;
-    }
-  </style>
-  <text class="title" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">My Tech Stack</text>
+<!-- save as assets/my-tech-stack.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="90" viewBox="0 0 500 90">
+  <!-- Rounded border -->
+  <rect x="10" y="10" width="480" height="70" rx="25" ry="25"
+        stroke="#C9B3D1" stroke-width="3" fill="none"/>
+  <!-- Centered text -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        fill="#C9B3D1" font-family="Inter, Arial, Helvetica, sans-serif"
+        font-weight="800" font-size="26">
+    🛠️ My Tech Stack :
+  </text>
 </svg>
