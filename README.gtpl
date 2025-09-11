@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋🏼, I'm Eimaan Afroz</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=2500&pause=1000&width=1500&height=75&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Eimaan+Afroz" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">Frontend Developer | Full-Stack Learner | React & React Native Explorer | Python Automation & AI Integration Enthusiast</h3>
 
 <!--
 <div align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Developer Animation" height="270" />
 </div>
+<h1 align="center">Hi 👋🏼, I'm Eimaan Afroz</h1>
 -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/eimaan-github.png" /></p> 
