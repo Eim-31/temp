@@ -15,11 +15,11 @@
 - [Add my first file](https://github.com/Eim-31/skills-introduction-to-github/pull/2) on [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github)
 ### ⭐ Recent Stars
 
-- [CSC207-2025F-UofT/FizzBuzz](https://github.com/CSC207-2025F-UofT/FizzBuzz) - lab 1 intro to Java and git activity!
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
-- [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that &#34;care about your data 🥺&#34;
-- [nixrajput/portfolio-nextjs](https://github.com/nixrajput/portfolio-nextjs) - This repository contains the source code for a portfolio website built using Next.js, TypeScript, Sass, Tailwind, and Aceternity UI. 
+- [RanitManik/100-days-of-python](https://github.com/RanitManik/100-days-of-python) - 🐍 The Complete Python Pro Bootcamp for 2023 || This repository contains code and projects completed during the &#34;100 Days of Python&#34; bootcamp by Angela Yu. This bootcamp is an intensive programming course that covers a wide range of topics in Python programming.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you&#39;ll find templates, and configurations for various tools, and technologies. 
+- [zairahira/Git-Cheat-Sheet](https://github.com/zairahira/Git-Cheat-Sheet) - 
+- [zairahira/Markdown-cheatsheet](https://github.com/zairahira/Markdown-cheatsheet) - 
+- [zairahira/Mastering-Linux-Handbook](https://github.com/zairahira/Mastering-Linux-Handbook) - Raw markdown for the original book on freeCodeCamp
 ### 📰 Recent Blog Posts
 
 - [Links](https://eimaanafroz.online/links/)
